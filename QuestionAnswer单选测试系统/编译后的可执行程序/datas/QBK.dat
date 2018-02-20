@@ -1,0 +1,108 @@
+*--question--*
+一些重要的程序语言(如C语言和Pascal语言) 允许过程的递归调用。而实现递归调用中的存储分配通常用
+栈
+堆
+数组
+链表
+*--question--*
+软件工程的理论和技术性研究的内容主要包括软件开发技术和
+软件工程管理
+消除软件危机
+程序设计自动化
+实现软件可重用
+*--question--*
+开发软件时对提高开发人员工作效率至关重要的是
+先进的软件开发工具和环境
+操作系统的资源管理功能
+程序人员的数量
+计算机的并行处理能力
+*--question--*
+在软件测试设计中，软件测试的主要目的是
+发现软件错误而执行程序
+找出软件中全部错误
+证明软件正确
+实验性运行软件
+*--question--*
+数据处理的最小单位是
+数据项
+数据
+数据元素
+数据结构
+*--question--*
+索引属于
+内模式
+模式
+外模式
+概念模式
+*--question--*
+下述关于数据库系统的叙述中正确的是
+数据库系统减少了数据冗余
+数据库系统避免了一切冗余
+数据库系统中数据的一致性是指数据类型一致
+数据库系统比文件系统能管理更多的数据
+*--question--*
+数据库系统的核心是
+数据库管理系统
+数据库
+模拟模型
+软件工程
+*--question--*
+下列说法错误的是
+Visual Basic中的一个工程只包含一个窗体
+窗体文件的扩展名为.frm
+一个窗体对应一个窗体文件
+Visual Basic中一个工程最多可以包含255个窗体
+*--question--*
+下列方法中不能退出Visual Basic的是
+按F10键，然后按F键，再按X键
+打开"文件"菜单，执行"退出"命令
+按下Alt+F组合键，然后按Esc键
+按Alt+Q组合键
+*--question--*
+任何控件都有的属性是
+Name
+BorderStyle
+Caption
+BackColor
+*--question--*
+可以实现从键盘输入一个作为双精度变量a的值的语句是
+a=Val(InputBox("请输入一个值") )
+a=InputBox("请输入一个值")
+a=InputBox()
+a=Val(InputBox() )
+*--question--*
+下列符号常量的声明中，不合法的是
+Const a As Double=Sin(1)
+Const a="OK"
+Const a As Single=1.1
+Const a As Integer="12"
+*--question--*
+在Visual Basic中，要强制用户对所用的变量进行显式声明，这可以在哪里设置?
+"选项"对话框
+对象浏览器
+"程序代码"窗口
+"属性"对话框
+*--question--*
+下列语句中，获得列表框List1中项目个数的语句是
+x=List1.ListCount
+x=ListCount
+x=List1.ListIndex
+x=ListIndex
+*--question--*
+要获得当前驱动器应使用驱动器列表框的属性是
+Drive
+Path
+Dir
+Pattern
+*--question--*
+如果将文本框的MaxLength属性设置为0，则文本框中的字符不能超过
+32K
+64K
+8K
+16K
+*--question--*
+当在滚动条内拖动滚动块时触发
+Scroll事件
+KeyPress事件
+Change事件
+KeyUp事件

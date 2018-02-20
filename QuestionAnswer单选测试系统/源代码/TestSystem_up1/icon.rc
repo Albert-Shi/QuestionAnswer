@@ -1,0 +1,28 @@
+IDI_ICON1 ICON DISCARDABLE "main.ico"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName",        "whathell"
+            VALUE "FileDescription",    "一个单选题考试系统"
+            VALUE "FileVersion",        "1.0.0.0\0"
+            VALUE "InternalName",       "TestSystem"
+            VALUE "LegalCopyright",     "Copyright 2016 史书恒 夏雪 李晗 朱颖"
+            VALUE "LegalTrademarks1",   "All rights reserved"
+            VALUE "LegalTrademarks2",   "All rights reserved"
+            VALUE "OriginalFilename",   "TestSystem.exe"
+            VALUE "ProductName",        "TestSystem"
+            VALUE "ProductVersion",     "1.0\0"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
